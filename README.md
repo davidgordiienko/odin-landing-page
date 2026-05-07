@@ -1,1 +1,2 @@
 # odin-landing-page
+A simple [landing page](https://https://www.theodinproject.com/lessons/foundations-landing-page) project I made to practice skills I learned from [The Odin Project](https://theodinproject.com)
